@@ -11,7 +11,7 @@ from typing import Dict, Optional
 RELEASEVERSION = "OB50"
 USERAGENT = "Dalvik/2.1.0 (Linux; U; Android 13; CPH2095 Build/RKQ1.211119.001)"
 TELEGRAM_TOKEN = "4927419917:8449142768:AAFvykgebcZu2lURqJjvJEI5juoW2R1Pyc4"
-TELEGRAM_CHAT_ID = -6744911106
+TELEGRAM_CHAT_ID = 6744911106
 BRANCH_NAME = "main"
 JWT_API_URL = "https://jwt-api-aditya-ffm.vercel.app/token"
 
